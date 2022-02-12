@@ -1,0 +1,44 @@
+*{
+    background:rgb(187, 232, 243);
+}
+
+h1{
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:coral;
+    font-size:100px;
+    font-weight:bold;
+}
+
+img{
+    margin:auto;
+    display:block;
+}
+
+.recipe-links{
+    text-align:center;
+    list-style-type:none;
+}
+
+.recipe-links li{
+    font-size:30px;
+    text-decoration:none;
+}
+
+.recipe-links li a{
+    color:coral;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+h2{
+    color:coral;
+    font-weight:bold;
+    font-size:30px;
+}
+
+.return{
+    display:block;
+    text-align:center;
+    color:red;
+}
